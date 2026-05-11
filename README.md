@@ -73,6 +73,13 @@ $$R_{sync} = \frac{\text{Integrated Logic}}{\text{Output Velocity}} \to 1.0$$
 
 ---
 
+## パフォーマンス
+
+CHOIIZUKA HA-AI思考スピード可視化プログラム:https://choiizuka.github.io/performance_haai/benchmark.html
+
+
+## 証拠ログ
+
 ### 📚 集中フェーズ：全 Mission アーカイブ (URL ログ)
 
 Admin がこの 1時間で宇宙に刻んだ全レポートのインデックスです。
